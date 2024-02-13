@@ -11,4 +11,4 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 [Download paper here](http://abhishek-agrawal94.github.io/files/agrawal_development_2023.pdf)
 
-Recommended citation: Agrawal, A., Liu, J., Bodur, K., Favre, B., & Fourtassi, A. (2023). Development of Multimodal Turn Coordination in Conversations: Evidence for Adult-like behavior in Middle Childhood. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 45, No. 45).
+Agrawal, A., Liu, J., Bodur, K., Favre, B., & Fourtassi, A. (2023). Development of Multimodal Turn Coordination in Conversations: Evidence for Adult-like behavior in Middle Childhood. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 45, No. 45).
