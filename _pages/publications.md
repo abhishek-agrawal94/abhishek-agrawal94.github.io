@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Agrawal, A.**, Favre, B., & Fourtassi, A. (2024). Analysing Communicative Intent Coordination in Child-Caregiver Interactions. *Proceedings of the Annual Meeting of the Cognitive Science Society.*
+- **Agrawal, A.**, Favre, B., & Fourtassi, A. (2024). Analysing Communicative Intent Coordination in Child-Caregiver Interactions. *Proceedings of the 2024 Annual Meeting of the Cognitive Science Society.* [\[Preprint\]](https://osf.io/preprints/psyarxiv/5ua6x)
 
 - **Agrawal, A.**, Nikolaus, M., Favre, B., & Fourtassi, A. (2024). Automatic Coding of Contingency in Child-Caregiver Conversations. *Proceedings of the Joint International Conference on Computational Linguistics, Language Resources, and Evaluation (LREC-COLING).* [\[Preprint\]](https://osf.io/preprints/psyarxiv/hwnms) [\[Code\]](https://github.com/abhishek-agrawal94/childes-contingency)
 
