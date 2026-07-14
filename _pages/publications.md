@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- **Agrawal, A.**, Favre, B., & Fourtassi, A. (under review). Mapping the Communicative Landscape of Early Child-Caregiver Interactions.  
+- **Agrawal, A.**, Favre, B., & Fourtassi, A. (in press). Scaffolding Early Dialogue: A Unified Account of Response Contingency in Child-Caregiver Interaction. *Cognitive Science.*  
 
-- **Agrawal, A.**, Favre, B., & Fourtassi, A. (2025). Identifying Repair Opportunities in Child-Caregiver Interactions. *Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue (SemDial).* 
+- **Agrawal, A.**, Favre, B., & Fourtassi, A. (2025). Identifying Repair Opportunities in Child-Caregiver Interactions. *Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue (SemDial).* [\[Paper\]](https://www.semdial.org/anthology/Z25-Agrawal_semdial_3307.pdf)
 
 - **Agrawal, A.**, Favre, B., & Fourtassi, A. (2024). Analysing Communicative Intent Coordination in Child-Caregiver Interactions. *Proceedings of the 2024 Annual Meeting of the Cognitive Science Society.* [\[Paper\]](https://escholarship.org/uc/item/1qw6z6d4)
 
