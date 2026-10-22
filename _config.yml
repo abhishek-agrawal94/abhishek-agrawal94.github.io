@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abhishek Agrawal"
 title_separator          : "-"
 name                     : &name "Abhishek Agrawal"
-description              : &description "PhD candidate at Aix-Marseille Université"
+description              : &description "Postdoctoral Researcher at Chosun University."
 url                      : https://abhishek-agrawal94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abhishek-agrawal94/abhishek-agrawal94.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Abhishek Agrawal"
   avatar           : "web_profile.jpg"
-  bio              : "PhD student at Aix-Marseille Université."
-  location         : "Marseille, France"
+  bio              : "Postdoctoral Researcher at Chosun University."
+  location         : "Gwangju, South Korea"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=w1EqnDEAAAAJ&hl=en&oi=ao"
-  email            : "abhishek-amit.AGRAWAL@univ-amu.fr"
+  email            : "abhi1994.aa@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
