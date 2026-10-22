@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-- **Agrawal, A.**, Favre, B., & Fourtassi, A. (in press). Scaffolding Early Dialogue: A Unified Account of Response Contingency in Child-Caregiver Interaction. *Cognitive Science.*  
+- **Agrawal, A.**, Favre, B., & Fourtassi, A. (2026). Scaffolding Early Dialogue: A Unified Account of Response Contingency in Child-Caregiver Interaction. *Cognitive Science, 50(7).*[\[Paper\]](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.70245) 
 
 - **Agrawal, A.**, Favre, B., & Fourtassi, A. (2025). Identifying Repair Opportunities in Child-Caregiver Interactions. *Proceedings of the 29th Workshop on the Semantics and Pragmatics of Dialogue (SemDial).* [\[Paper\]](https://www.semdial.org/anthology/Z25-Agrawal_semdial_3307.pdf)
 
